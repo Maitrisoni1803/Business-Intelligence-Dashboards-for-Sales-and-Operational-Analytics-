@@ -60,7 +60,8 @@ Streamline order processing
 
 Improve cash flow through better receivables management
 It demonstrates the practical use of data analytics and business intelligence tools to support strategic, operational, and financial decision-making.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📊 **Sales performance Analysis**
