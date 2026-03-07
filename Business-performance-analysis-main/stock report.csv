@@ -1,0 +1,197 @@
+﻿#,Warehouse Type,ItemCode,ItemName,CodeBars,U_OEM,ABD,BRD,PUN,PUN-O,RJK,SUR,ZZDS-ABD,ZZDS-BRD,ZZDS-PUN,ZZDS-RJK,ZZDS-SUR,Total Qty,Total Value,Last Purchase Price 1,Last Purchase Price 2,Last Purchase Price 3,Software/Hardware
+1,Demo,H000001,z pozputvzt zX100S,zX100S,z pozputvzt,2,0,0,0,0,0,0,0,0,0,0,2,10687.5,11000,11250,11250,Hardware
+2,Demo,H000002,z pozputvzt y300,y 300,z pozputvzt,1,3,0,0,0,2,0,0,0,0,0,6,22663.3,6300,6300,6300,Hardware
+3,Demo,H000004,z pOzPUTvzt y250,y250,z pozputvzt,2,1,0,0,1,0,0,0,0,0,0,4,9190.83,5543.25,5350,5350,Hardware
+4,Saleable,H000004,z pOzPUTvzt y250,y250,z pozputvzt,0,1,0,0,0,0,0,0,0,0,0,1,2297.71,5543.25,5350,5350,Hardware
+5,Saleable,H000015,Qzzp TS-253 Pro,Q253P,Qzzp,0,1,0,0,0,0,0,0,0,0,0,1,0,43000,32500,30000,Hardware
+6,Demo,H000228,Sopuos Rrq 10 zppyvzzpr wvtu US Powrr Suppyy,R10ZTpuUS,Sopuos,0,1,0,0,0,0,0,0,0,0,0,1,10912.5,0,0,0,Hardware
+7,Demo,H000282,SOzvpWzyy TZ600 zsR,01-SSp-0226,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,0,75680,68900,0,Hardware
+8,Demo,H000285,SOzvpWzyy TZ300 zsR,01-SSp-0587,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,13251.75,29350,27000,26258.76,Hardware
+9,Saleable,H000313,Qzzp Qt -103z zoovyr zzS,QQt103z,Qzzp,2,0,0,0,0,0,0,0,0,0,0,2,1.9,0.95,10,0.01,Hardware
+10,Demo,H000368,Qzzp TS-451+-2t,QzS005,Qzzp,0,0,0,0,0,1,0,0,0,0,0,1,37000,38750,38750,38750,Hardware
+11,Demo,H000457,z pozputvzt RX300,RX300,z pozputvzt,1,1,0,0,1,1,0,0,0,0,0,4,18761.5,7700,7700,7700,Hardware
+12,Demo,H000469,Srztztr vroz woys zzS 2 To uqq,ST2000Vz004,uzrq qvsx,0,0,0,0,0,1,0,0,0,0,0,1,5400,5900,5650,5650,Hardware
+13,Demo,H000519,uqzv TO Vtz pzoyr,uqzv2Vtz,z pozputvzt,0,0,0,0,1,0,0,0,0,0,0,1,367.11,250,200,354.22,Hardware
+14,Saleable,H000519,uqzv TO Vtz pzoyr,uqzv2Vtz,z pozputvzt,0,0,0,0,1,0,0,0,0,0,0,1,367.11,250,200,354.22,Hardware
+15,Demo,H000533,SozvpWzyy zSz 3600 zppyvzzpr,01-SSp-3850,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,0,21000,101716.33,100801.3,Hardware
+16,Saleable,H000566,SozvpWzyy TZ 500 zppyvzzpr,01-SSp-0211,Sozvpwzyy,0,0,0,1,0,0,0,0,0,0,0,1,0,50000,38000,38000,Hardware
+17,Demo,H000608,SozvpWzyy SozvpPovzt zpr Wvtuout POr zsR,SozvpPovzt,Sozvpwzyy,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Hardware
+18,Saleable,H000610,SozvpWzyy 10to-SR SsP+ SuORT Rrzpu svorR zOqUyr zUyTv-zOqr zO pzoyr,01-SSp-9785,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,21220,10610,10124,10124,Hardware
+19,Demo,H000658,QzzP TVS 873 4to Rzz,Q8734t,Qzzp,0,0,0,0,0,1,0,0,0,0,0,1,78000,73000,78000,78000,Hardware
+20,Demo,H000685,SozvpWzyy zSz 3600 zsR,01-SSp-3852,Sozvpwzyy,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Hardware
+21,Saleable,H000745,SOzvpWzyy SOuO 250 zsR,02-SSp-1870,SozvpWzyy,0,1,0,0,0,0,0,0,0,0,0,1,78000,78000,19200,19200,Hardware
+22,Saleable,H000771,Tosuvoz SzTz 10To rztrrprvsr uqq,zt06zpz10Tr,uzrq qvsx,0,0,0,0,0,2,0,0,0,0,0,2,35400,14800,15250,16864,Hardware
+23,Demo,H000811,rozStor tSr Pro 200 8-ozy qrsxtop pyouq-vztrtrztrq Uzvsvrq Storztr,tSr Pro 208-q,vzsoTrrzq,1,0,0,0,0,0,0,0,0,0,0,1,109200,132400,109200,0,Hardware
+24,Saleable,H000884,"Tosuvoz z300 4To zzS uqq, 3 Yrzrs Wzrrzzty",uqWQ140UZSVz,uzrq qvsx,7,0,0,0,0,2,0,0,0,0,0,9,71100,7900,7600,7550,Hardware
+25,Saleable,H000971,SOzvpWzyy TZ370 zPPyvzzpr,02-SSp-2825,Sozvpwzyy,4,0,0,0,0,0,0,0,0,0,0,4,111035,15568,15419,40196,Hardware
+26,Demo,H000982,SOzvpWzyy TZ270 SrpURr UPtRzqr PyUS,02-SSp-8443,Sozvpwzyy,1,0,0,0,1,0,0,0,0,0,0,2,24323,12514,12514,12600,Hardware
+27,Saleable,H000982,SOzvpWzyy TZ270 SrpURr UPtRzqr PyUS,02-SSp-8443,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,24323,12514,12514,12600,Hardware
+28,Demo,H000985,Pyzztrozvps oyzpxwvrr p3220 USo-z urzqsrt,209745-201,Poyy,0,0,0,0,0,1,0,0,0,0,0,1,2610,2625,2625,2568,Hardware
+29,Demo,H001006,POr zqzptrr,POr zqzptrr,Oturr,0,0,0,0,1,0,0,0,0,0,0,1,650,650,650,650,Hardware
+30,Saleable,H001013,SOzvpWzyy TZ370 SrpURr UPtRzqr PyUS,02-SSp-8441,Sozvpwzyy,7,0,0,0,0,0,0,0,0,0,0,7,110012,15716,15716,15568,Hardware
+31,Saleable,H001015,SOzvpWzyy TZ570 SrpURr UPtRzqr zPPyvzzpr,02-SSp-8436,Sozvpwzyy,3,1,0,0,0,0,0,0,0,0,0,4,155336,38834,38834,38834,Hardware
+32,Demo,H001021,SOzvpWzyy zSz 2700 SrpURr UPtRzqr zPPyvzzpr,02-SSp-8897,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,84244,91956,91956,89425,Hardware
+33,Saleable,H001021,SOzvpWzyy zSz 2700 SrpURr UPtRzqr zPPyvzzpr,02-SSp-8897,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,168488,91956,91956,89425,Hardware
+34,Saleable,H001022,SOzvpWzyy zSz 2700 uvtu zVzvyzovyvTY,02-SSp-7367,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,115083,115083,115083,115083,Hardware
+35,Saleable,H001029,SOzvpWzyy TZ470 SrpURr UPtRzqr zPPyvzzpr OzyY,02-SSp-8438,Sozvpwzyy,3,0,0,0,0,0,0,0,0,0,0,3,73341,24447,24447,24216,Hardware
+36,Demo,H001030,Quzztuz Wvrryrss zpprss Povzt-Qz-v-220,Qz-v-220,Quzztuz,0,0,0,0,1,0,0,0,0,0,0,1,9500,10600,10000,8835,Hardware
+37,Saleable,H001059,Wq oyur™ Sz550 zVzr™ SSq 500 to,WqS500t2o0p,uzrq qvsx,0,0,0,0,0,1,0,0,0,0,0,1,4850,4850,0,0,Hardware
+38,Saleable,H001073,SOzvpWzyy TZ270 Pyzvz zppyvzzpr,02-SSp-2821,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,59252,29626,28212,27866,Hardware
+39,Saleable,H001074,SOzvpWzyy TZ470 Pyzvz zppyvzzpr,02-SSp-2829,Sozvpwzyy,3,0,0,0,0,0,0,0,0,0,0,3,181293,62923,59185,59185,Hardware
+40,Saleable,H001075,SOzvpWzyy TZ670 Pyzvz zppyvzzpr,02-SSp-2837,Sozvpwzyy,3,0,0,0,0,0,0,0,0,0,0,3,146382,48794,48794,48794,Hardware
+41,Demo,H001091,3.0z SsP+ 10tor qvRrpT zTTzpu pzoyr,pzo-qzp30z-SsPP,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,6000,6000,6000,4399,Hardware
+42,Saleable,H001096,1To zpzprr Prosrssvozzy Ppvr trz3 x4 z.2 2280 zzS SSq,zP1TPP3480-R,uzrq qvsx,1,0,0,0,0,0,0,0,0,0,0,1,10044,10044,9944.4,9999.6,Hardware
+43,Saleable,H001097,512to zpzprr Prosrssvozzy Ppvr trz3 x4 z.2 2280 zzS SSq,zP512tPP3480-R,uzrq qvsx,28,0,0,0,0,0,0,0,0,0,0,28,133395.16,4768.13,4655.75,4623.85,Hardware
+44,Demo,H001099,Quzztuz Qz-v-200 quzy-ozzq zpprss Povzt zsR,Qz-v-200-zsR,Quzztuz,0,0,0,0,0,1,0,0,0,0,0,1,3023,3023,3023,3023,Hardware
+45,Saleable,H001111,SOzvpWzyy zSz 3700 SrpURr UPtRzqr zPPyvzzpr,02-SSp-8898,Sozvpwzyy,0,1,0,0,0,0,0,0,0,0,0,1,136145,138763,124454,137454,Hardware
+46,Demo,H001114,QzzP TS-873z-8t,QzS011,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,70044,73161.31,77250,71451.46,Hardware
+47,Saleable,H001124,prupvzy zX500 1To SzTz 6.35 pz (2.5-vzpu) 7zz vztrrzzy SSq,pT1000zX500SSq1,uzrq qvsx,0,1,0,0,0,0,0,0,0,0,0,1,7500,7500,7313.56,0,Hardware
+48,Saleable,H001125,QzzP TS-431 – oP,70-1QY440100,Qzzp,0,0,0,0,0,1,0,0,0,0,0,1,2520,2520,0,0,Hardware
+49,Demo,H001126,RX-RqP+ Tuvz pyvrzt,500-0203,z pozputvzt,2,0,0,0,0,0,0,0,0,0,0,2,18369.38,9950,9950,9950,Hardware
+50,Saleable,H001126,RX-RqP+ Tuvz pyvrzt,500-0203,z pozputvzt,11,0,0,0,0,0,0,0,0,0,0,11,101031.62,9950,9950,9950,Hardware
+51,Demo,H001138,RX420 (RqP) Tuvz pyvrzt,500-0184,z pozputvzt,1,0,0,0,0,0,0,0,0,0,0,1,0,13500,13500,13500,Hardware
+52,Saleable,H001152,pzzrrz Stuqvo P5 Woryqwvqr Oprz rposystrz 1080p pzzrrz zzq (1) zvp USo Powrrrq USo 20 Typr z - Poyypoz,2200-87070-001,Poyy,0,1,0,0,0,0,0,0,0,0,0,1,7000,3500,3500,3500,Hardware
+53,Demo,H001159,POyY urzqSrT 8225 oyzpxWvRr oW 8225 USo-z,214406-01,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,11000,11545,11000,0,Hardware
+54,Saleable,H001161,Poyy Souzq ozr Stuqvo P009 zuqvo/Vvqro USo Souzqozr wvtu zuto-trzpx - Poyypoz,7200-85830-036,Poyy,0,1,0,0,0,0,0,0,0,0,0,1,66000,58500,31431,58196,Hardware
+55,Demo,H001173,"Poyy SYzp 40+, SY40-z USoz oT600,zvprosost Trzz rqvtvoz",218764-01,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,23000,25000,19500,21700,Hardware
+56,Saleable,H001173,"Poyy SYzp 40+, SY40-z USoz oT600,zvprosost Trzz rqvtvoz",218764-01,Poyy,1,2,0,0,0,0,0,0,0,0,0,3,69000,25000,19500,21700,Hardware
+57,Demo,H001188,"Poyy oyzpxWvRr,p3225 USo-z & 3.5zz wzpx",209747-201,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,3915.33,4050,3875,3590,Hardware
+58,Saleable,H001188,"Poyy oyzpxWvRr,p3225 USo-z & 3.5zz wzpx",209747-201,Poyy,0,2,0,0,0,0,0,0,0,0,0,2,7830.66,4050,3875,3590,Hardware
+59,Saleable,H001203,QzzP TS-233,QzS001,Qzzp,3,0,0,0,0,0,0,0,0,0,0,3,44280,14760,14760,14760,Hardware
+60,Demo,H001213,POyY STUqvO X50 & POyY Tp8 zyy-vz-ozr,2200-86270-036,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,109000,259000,276000,275713,Hardware
+61,Saleable,H001222,Rzvy-o02,QSR001,Qzzp,15,0,0,0,0,1,0,0,0,0,0,16,83385.6,5211.6,5211.6,5143.8,Hardware
+62,Saleable,H001224,Rzvy-z02-90,QSR003,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,11031.22,11031.22,10679.43,10614.66,Hardware
+63,Saleable,H001227,Qz2-2P2t2T,QSz003,Qzzp,4,0,0,0,0,0,0,0,0,0,0,4,49760.04,12440.01,11308.95,11475,Hardware
+64,Saleable,H001231,Qz2-4P-384,QSz007,Qzzp,7,0,0,0,0,0,0,0,0,0,0,7,84634.56,12093.12,12087.36,12031.2,Hardware
+65,Saleable,H001234,Rzz-4tqR4T0-SO-2666,QSz002,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,7323.09,7323.09,7323,7055,Hardware
+66,Saleable,H001235,Rzz-8tqR4T0-SO-2666,QSz003,Qzzp,4,0,0,0,0,0,0,0,0,0,0,4,51059.84,9000,12764.96,13934,Hardware
+67,Saleable,H001237,Rzz-16tqR4z0-Uq-2400,QSz005,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,16270.8,16270.8,0,0,Hardware
+68,Saleable,H001245,pzo-qzp15z-SsPP,QSp001,Qzzp,4,0,0,0,0,1,0,0,0,0,0,5,15693.96,3191.24,2929,0,Hardware
+69,Saleable,H001246,pzo-qzp30z-SsPP,QSp002,Qzzp,4,0,0,0,0,0,0,0,0,0,0,4,17803.76,4450.94,4585,4585,Hardware
+70,Saleable,H001258,QzzP TS-432PXU-RP-2t,QzS110,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,73277.88,73277.88,73383.24,73383.24,Hardware
+71,Saleable,H001281,QzzP TS-473z-8t,QzS010,Qzzp,11,0,0,0,0,2,0,0,0,0,0,13,706911.85,54377.83,53106.97,61700,Hardware
+72,Saleable,H001285,QzzP Ty-R1620Srp-RP,QzSr0003,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,180927.64,180927.64,181634.4,192895.98,Hardware
+73,Saleable,H001294,TRX-16tspSsP-SR,QSTR002,Qzzp,2,0,0,0,0,0,0,0,0,0,0,2,20965.16,10482.58,0,0,Hardware
+74,Saleable,H001296,2To zpzprr Prosrssvozzy Ppvr trz3 x4 z.2 2280 zzS SSq,zP2TPP3480-R,uzrq qvsx,6,0,0,0,0,0,0,0,0,0,0,6,79698.36,13283.06,13194.58,12420,Hardware
+75,Demo,H001309,Poyy rztyr ryr USo,7230-60896-036,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,41445,41445,61032,61900,Hardware
+76,Saleable,H001330,TOSuvoz 18 To uqq rzTrRPRvSr,zt09zpz18Tr,uzrq qvsx,14,0,0,0,0,1,0,0,0,0,0,15,402800,27100,26000,24500,Hardware
+77,Demo,H001337,"Poyypoz Stuqvo / Stuqvo X / t7500 USo pzoyr to pozputvzt pyztsorz. sor usr wvtu Stuqvo USo, qrvvpr zoqr oz t7500, Stuqvo X30 zzq Stuqvo X50. USo 2.0, pozzrptor typr z to p, 5z.",2457-85517-001,Poyy,0,1,0,0,0,0,0,0,0,0,0,1,6000,6000,6162,6162,Hardware
+78,Saleable,H001349,Tosuvoz 4To 3.5vzpu SzTz rztrrprvsr uqq,zt08zqz400r,uzrq qvsx,1,0,0,0,0,0,0,0,0,0,0,1,11200,11200,10900,10500,Hardware
+79,Demo,H001360,Tosuvoz 4To zzs uqq- 3 yrzrs wzrrzzty,uqWt440zZSTz,uzrq qvsx,1,0,0,0,0,0,0,0,0,0,0,1,7400,8350,8300,7600,Hardware
+80,Demo,H001365,RX-uqX+,500-0168,z pozputvzt,1,0,0,0,0,0,0,0,0,0,0,1,1,13500,0,0,Hardware
+81,Saleable,H001372,Srztztr rxos 7r10 8To rztrrprvsr uqq,ST8000zz017o,uzrq qvsx,0,1,0,0,1,0,0,0,0,0,0,2,23800,15700,11900,14900,Hardware
+82,Saleable,H001393,TS-u1887XU-RP-r2336-32t,QzS116,Qzzp,4,0,0,0,0,0,0,0,0,0,0,4,1283095.92,320773.98,304237.62,322996.24,Hardware
+83,Saleable,H001395,TS-u3087XU-RP-r2378-64t,QzS119,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,526455.73,550137.36,502774.11,552181.95,Hardware
+84,Saleable,H001409,uPr X 130 10t SsP+ yp SR Trzzsprvvrr,wq092o,uPr,0,4,0,0,0,0,0,0,0,0,0,4,72000,18000,18000,18000,Hardware
+85,Demo,H001442,TS-464-8t zsR,QzS018zsR,Qzzp,0,1,0,0,1,1,0,0,0,0,0,3,138120,46040,46040,46040,Hardware
+86,Saleable,H001443,Wq oyur Sz570 zVzr™  1To SSq,WqS100T3o0p,uzrq qvsx,0,1,0,0,0,0,0,0,0,0,0,1,7050,7050,0,0,Hardware
+87,Saleable,H001464,QzzP TS-464-8t,QzS018R2,Qzzp,0,0,0,0,0,1,0,0,0,0,0,1,41826,41826,43691.12,43423.88,Hardware
+88,Saleable,H001465,QzzP TS-664-8t,QzS019R2,Qzzp,3,0,0,0,0,0,0,0,0,0,0,3,167310,55770,60277,54833.22,Hardware
+89,Demo,H001466,Tosuvoz 4To SzTz vvv 7200 RPz zzS uqq; 3 Yrzrs Wzrrzzty,zsR-uqWt440zZSTz,uzrq qvsx,3,0,0,0,2,0,0,0,0,0,0,5,38500,7700,0,0,Hardware
+90,Saleable,H001470,QXt-2t1T-v225,QSz016,Qzzp,0,0,0,0,0,1,0,0,0,0,0,1,4376.82,4376.82,0,0,Hardware
+91,Saleable,H001479,SOzvpWzyy zSz 3700 uvtu zVzvyzovyvTY,02-SSp-7368,SozvpWzyy,0,1,0,0,0,0,0,0,0,0,0,1,160942,162490,162490,160942,Hardware
+92,Saleable,H001491,QzzP TS-462-4t,QzS017R2,Qzzp,1,0,0,0,0,1,0,0,0,0,0,2,72768.4,36388.56,36379.84,36222.88,Hardware
+93,Saleable,H001492,Qz2-2P-384z,QSz006R2,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,14948.44,14948.44,11296.16,11335.6,Hardware
+94,Saleable,H001493,Srztztr rxos 7r10 - uzrq qrvvr - 2 To - SzTz 6to/s,ST2000zz000o,uzrq qvsx,0,1,0,0,0,0,0,0,0,0,0,1,9375,9500,9350,9375,Hardware
+95,Saleable,H001501,TOSuvoz z300 6To zzS uqq,uqWt460zZSTz,uzrq qvsx,1,0,0,0,0,0,0,0,0,0,0,1,11000,11900,11000,11000,Hardware
+96,Demo,H001509,QzzP TS-262-4t,QzS015R2,Qzzp,0,0,0,0,1,0,0,0,0,0,0,1,28623,27665.61,27497.82,28355,Hardware
+97,Saleable,H001518,TS-u1090sU-7232P-64t,QzS120,Qzzp,1,0,0,0,0,1,0,0,0,0,0,2,782314.5,391157.25,390736.5,0,Hardware
+98,Saleable,H001526,QzzP TS-431XrU-8t,QzS101R2,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,47149.68,47149.68,49723.7,49095.8,Hardware
+99,Saleable,H001527,256to zpzprr Prosrssvozzy Ppvr trz3x4 z.2 2280 zzS SSq,zP256tPP3480-R,uzrq qvsx,46,1,0,0,0,0,0,0,0,0,0,47,121992.24,2600.8,2539.5,3425,Hardware
+100,Saleable,H001539,Wvzqows 11 Prosrssvozzy 64 ovt Orz Pzpx,sQp-10528,zvprosost,1,0,0,0,0,0,0,0,0,0,0,1,7700,7700,7700,7500,Hardware
+101,Saleable,H001544,Tosuvoz 16To rztrrprvsr uqq,zt09zpz16Tr,uzrq qvsx,17,0,0,0,0,0,0,0,0,0,0,17,420000,24800,24000,24000,Hardware
+102,Saleable,H001550,QzzP TS-453r-8t,QzS020,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,44065.22,44065.22,47763.12,42297.27,Hardware
+103,Saleable,H001551,QzzP TVS-u474-PT-8t,QzS021,Qzzp,6,0,0,0,0,0,0,0,0,0,0,6,490351.33,81725.22,94180.68,93776.76,Hardware
+104,Saleable,H001558,z pozputvzt RX300+,500-0213,z pozputvzt,26,0,0,0,0,0,0,0,0,0,0,26,218400,8400,8400,8400,Hardware
+105,Saleable,H001559,TRX-10tvTSsPP-SR,QSTR004,Qzzp,2,0,0,0,0,0,0,0,0,0,0,2,7509.6,3754.8,0,0,Hardware
+106,Saleable,H001560,TOSuvoz 20 To uqq rzTrRPRvSr,zt10zpz20Tr,uzrq qvsx,16,0,0,0,0,0,0,0,0,0,0,16,504160,31510,31510,1,Hardware
+107,Saleable,H001565,QXt-10t2T,QSz019,Qzzp,2,0,0,0,0,1,0,0,0,0,0,3,50766.64,16963.96,16901.34,17978,Hardware
+108,Saleable,H001580,uP Poyy Stuqvo P009,842q4zz,Poyy,6,1,0,0,0,0,0,0,0,0,0,7,399000,57000,57000,57000,Hardware
+109,Saleable,H001581,uP Poyy Stuqvo R30,842q2zz,Poyy,4,0,0,0,0,0,0,0,0,0,0,4,174000,43500,43500,43500,Hardware
+110,Saleable,H001582,uP Poyy Trvo p60,8z1y8zz,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,46000,46000,46000,46000,Hardware
+111,Demo,H001594,z pozputvzt y 400,500-0212,z pozputvzt,1,0,0,0,0,0,0,0,0,0,0,1,7263.11,7300,7300,7300,Hardware
+112,Saleable,H001594,z pozputvzt y 400,500-0212,z pozputvzt,99,2,0,0,1,0,0,0,0,0,0,102,740836.89,7300,7300,7300,Hardware
+113,Saleable,H001595,uP Poyy rxpzzsvoz zvpropuozr,875z6zz,Poyy,1,0,0,0,0,0,0,0,0,0,0,1,13891,13891,15590,15590,Hardware
+114,Demo,H001601,uP Poyy oW 3320 - z USo-z uS,76w17zz,Poyy,0,1,0,0,0,0,0,0,0,0,0,1,3215,3215,3213,3215,Hardware
+115,Saleable,H001603,QXt-10t2Ss-X710,QSz020,Qzzp,3,0,0,0,0,0,0,0,0,0,0,3,53012.63,18700,15612.63,15477.99,Hardware
+116,Saleable,H001643,uP POyY oW 5220USo-p uS+3.5zzP,8X231zz,Poyy,5,0,0,0,0,0,0,0,0,0,0,5,30225,6045,6045,6045,Hardware
+117,Saleable,H001647,uP Poyy Syzp 40+ -z USo-z USo-p SP +oT700z,77P36zz,Poyy,2,0,0,0,0,0,0,0,0,0,0,2,46482,23250,23250,23250,Hardware
+118,Saleable,H001651,zzxuuo r7520 Srrvrs vztrrzptvvr syzt Pzzry,r7520p,zzxuuo,2,0,0,0,0,0,0,0,0,0,0,2,249998,124999,129999,0,Hardware
+119,Saleable,H001652,zzxuuo OPS62z,OPS62z,zzxuuo,5,0,0,0,0,0,0,0,0,0,0,5,5,1,1,0.01,Hardware
+120,Saleable,H001664,"zzXuUo vsP 65"" Pzzry",r6520p,zzxuuo,1,0,0,0,0,0,0,0,0,0,0,1,114999,114999,0,0,Hardware
+121,Saleable,H001665,Tosuvoz 12To 3.5 SzTz rztrrprvsr uqq,zt09zpz12Tr,uzrq qvsx,12,0,0,0,0,0,0,0,0,0,0,12,251040,21160,20200,20200,Hardware
+122,Saleable,H001667,zzxuUo Wvrryrss Prrsrztztvoz qoztyr,WT13z,zzxuuo,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Hardware
+123,Saleable,H001670,512to zpzprr Prosrssvozzy Ppvr trz4x4 z.2 2280 zzS SSq,zP512tPo4480-R,uzrq qvsx,8,0,0,0,0,0,0,0,0,0,0,8,40225.65,5028.21,4854.6,0,Hardware
+124,Saleable,H001671,1To zpzprr Prosrssvozzy Ppvr trz4x4 z.2 2280 zzS SSq,zP1TPo4480-R,uzrq qvsx,8,0,0,0,0,0,0,0,0,0,0,8,63612,7951.5,0,0,Hardware
+125,Saleable,H001688,PWR-zqzPTrR-90W-z01,QzSP001,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,4031.04,4031.04,0,0,Hardware
+126,Saleable,H001707,Syzp 20+ z USo Sprzxrr Puozr,772p9zz,Poyy,2,1,0,0,0,1,0,0,0,0,0,4,50124,12531,12531,0,Hardware
+127,Saleable,H001718,"Srztztr SzTz vvv 3.5"" 7200 RPz 24To rztrrprvsr uqq",ST24000zz002u,uzrq qvsx,7,0,0,0,0,0,0,0,0,0,0,7,244281.45,34897.35,0,0,Hardware
+128,Saleable,H001725,QzzP TS-216t,QzS023,Qzzp,54,0,0,0,0,8,0,0,0,0,0,62,1035489.31,16701.44,0,0,Hardware
+129,Saleable,H001768,xvztstoz 32to qqR4 Rzz,xVR32S22q8/32,uzrq qvsx,1,0,0,0,0,0,0,0,0,0,0,1,11300,11300,11500,0,Hardware
+130,Saleable,H001792,uP Poyy oW 3320 Strrro -z USo-p uS +USo-p/z,8X220zz,Poyy,10,0,0,0,0,0,0,0,0,0,0,10,33940,3394,3395,3393,Hardware
+131,Saleable,H001797,Tosuvoz 22To SzTz rztrrprvsr uqq,zt10zsz22Tr,uzrq qvsx,9,0,0,0,0,0,0,0,0,0,0,9,319500,35500,34000,0,Hardware
+132,Saleable,H001800,vztry rturrzrt zrtworx zqzptor X710-T2y,X710-T2y,vztry,2,0,0,0,0,0,0,0,0,0,0,2,49000,24500,0,0,Hardware
+133,Saleable,H001803,Tosuvoz 6To 3.5vzpu SzTz rztrrprvsr uqq,zt10zqz600r,uzrq qvsx,17,0,0,0,0,3,0,0,0,0,0,20,250200,13000,12300,12300,Hardware
+134,Saleable,H001804,Tosuvoz 10To 3.5vzpu SzTz rztrrprvsr uqq,zt10zqz10Tr,uzrq qvsx,4,0,0,0,0,0,0,0,0,0,0,4,66800,16700,16700,16700,Hardware
+135,Saleable,H001813,PqU 5 Sopxrt 5/15 zzP,PqU5,qyvzx,0,5,0,0,0,0,0,0,0,0,0,5,8000,1600,0,0,Hardware
+136,Saleable,H001818,Tosuvoz zt10-q 8To rztrrprvsr uqq,zt10zqz800r,uzrq qvsx,20,0,0,0,0,0,0,0,0,0,0,20,286400,14320,0,0,Hardware
+137,Saleable,H001825,zvproz 7400 Pro 7.68To zVzr rztrrprvsr SSq U.3,zTsqxpo7T6TqZ-1zZ1ZzoYYR,uzrq qvsx,4,0,0,0,0,0,0,0,0,0,0,4,260000,65000,0,0,Hardware
+138,Saleable,H001826,Tosuvoz 4To SzTz rztrrprvsr uqq,zt10zqz400r,uzrq qvsx,16,0,0,0,0,0,0,0,0,0,0,16,179200,11200,0,0,Hardware
+139,Saleable,S000997,pOzPRrurzSvVr tzTrWzY SrpURvTY SUvTr oUzqyr sOR SOzvpWzyy SOuO SrRvrS 1YR,01-SSp-0688,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,35500,17758,17742,17742,Software
+140,Saleable,S001214,Wvzqows Sy 8 32 ovt Orz pzpx,WSy832o,zvprosost,1,0,0,0,0,0,0,0,0,0,0,1,5571.43,0,0,0,Software
+141,Saleable,S001224,Wvzqows Prosrssvozzy 8.1 suyy Pzpx Proqupt,sQp-06914,zvprosost,1,0,0,0,0,0,0,0,0,0,0,1,3095.24,0,0,0,Software
+142,Saleable,S001226,Ossvpr 365 Szzyy ousvzrss Prrzvuz,6SR-00002,zvprosost,0,7,0,0,0,0,0,0,0,0,0,7,22318.87,3188.41,0,0,Software
+143,Saleable,S001475,"SozvpWzyy Support Srrvvprs Rrvzstztrzrzt sor TZ 210/215/400/500/600 Srrvrs, zSz 220/240/250z Srrvrs,",01-SSp-6801,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,2174,2174,100,2763,Software
+144,Saleable,S001665,SOzvpWzyy zqVzzprq tzTrWzY SrpURvTY SUvTr oUzqyr sOR TZ400 SrRvrS 1YR,01-SSp-1440,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,78796,39398,39398,39398,Software
+145,Saleable,S002175,SozvpWzyy zqvzzprq tztrwzy Srpurvty Suvtr ouzqyr sor TZ500 1 Yr.,01-SSp-1450,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,62154,62154,43579,43579,Software
+146,Saleable,S002434,SozvpWzyy zqvzzpr tztrwzy Srpurvty Suvtr ouzqyr sor Souo 250 Srrvrs  1 Yr.,02-SSp-1726,Sozvpwzyy,5,0,0,0,0,0,0,0,0,0,0,5,68845,15000,13769,13769,Software
+147,Saleable,S002797,pOzPRrurzSvVr tzTrWzY SrpURvTY SUvTr oUzqyr sOR TZ350 SrRvrS 3YR,02-SSp-1787,SozvpWzyy,3,0,0,0,0,0,0,0,0,0,0,3,96732,32244,32244,32244,Software
+148,Saleable,S002969,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ570 3YR,02-SSp-5139,Sozvpwzyy,3,0,0,0,0,0,0,0,0,0,0,3,309405,103135,103135,103135,Software
+149,Demo,S003201,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ270 3YR,02-SSp-6747,Sozvpwzyy,0,0,0,0,1,0,0,0,0,0,0,1,35836.89,36036,36036,36650,Software
+150,Saleable,S003201,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ270 3YR,02-SSp-6747,Sozvpwzyy,8,0,0,0,0,0,0,0,0,0,0,8,286695.11,36036,36036,36650,Software
+151,Saleable,S003215,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ670 3YR,02-SSp-5055,Sozvpwzyy,3,0,0,0,0,0,0,0,0,0,0,3,404010,225059,134670,134670,Software
+152,Saleable,S003257,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ370 3YR,02-SSp-6627,Sozvpwzyy,3,0,0,0,1,0,0,0,0,0,0,4,213672,53418,53418,54881,Software
+153,Saleable,S003273,SOzvpWzyy STzTrsUy uz UPtRzqr sOR zSz 2700 SrRvrS,02-SSp-8389,Sozvpwzyy,1,0,0,0,0,0,0,0,0,0,0,1,18310,18310,18310,18310,Software
+154,Saleable,S003285,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ470 3YR,02-SSp-6507,Sozvpwzyy,6,0,0,0,0,0,0,0,0,0,0,6,457872,76312,76312,76844,Software
+155,Demo,S003488,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ270 1YR,02-SSp-6745,Sozvpwzyy,0,0,0,0,0,1,0,0,0,0,0,1,14109,15976,15976,16143,Software
+156,Saleable,S003519,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR zSz 3700 3YR,02-SSp-7351,Sozvpwzyy,1,1,0,0,0,0,0,0,0,0,0,2,550404,281287,281287,281287,Software
+157,Saleable,S003673,rxpuzztr Ozyvzr (Pyzz 2) - pSP,psQ7TTp0yu1P:0001_P1Y:zzzuzy,zvprosost,0,2,0,0,0,0,0,0,0,0,0,2,12768,3511.2,6384,6384,Software
+158,Saleable,S003674,zvprosost 365 zpps sor ousvzrss pSP,psQ7TTp0yu1t:0001_P1Y:zzzuzy,zvprosost,0,10,0,0,0,0,0,0,0,0,0,10,56400,5640,6000,6000,Software
+159,Saleable,S003675,zvprosost 365 ousvzrss ozsvp pSP,psQ7TTp0yu18:0001_P1Y:zzzuzy,zvprosost,0,81,0,0,0,0,0,0,0,0,0,81,99169.72,450.79,414.16,915.37,Software
+160,Saleable,S003676,zvprosost 365 ousvzrss Stzzqzrq pSP,psQ7TTp0yqPo:0001_P1Y:zzzuzy,zvprosost,0,6,0,0,0,0,0,0,0,0,0,6,35615.47,6369.29,1561.12,6912,Software
+161,Saleable,S003800,yvp-zzS-rXTW-oROWz-2Y-rv,QSW007rv,Qzzp,1,0,0,0,0,0,0,0,0,0,0,1,38327.31,38327.31,38093.58,37158.66,Software
+162,Saleable,S003826,vyyustrztor pp sor trzzs (yrvry 1 1-9),65305188pz01z12,zqoor,0,1,0,0,0,0,0,0,0,0,0,1,27757.62,27757.62,29090.4,29090.4,Software
+163,Saleable,S003838,Puotosuop sor trzzs (yrvry 1 1 - 9),65305155pz01z12,zqoor,0,1,0,0,0,0,0,0,0,0,0,1,27757.62,24323.68,29090.4,27757.62,Software
+164,Saleable,S003839,zstrr rssrpts sor trzzs (yrvry 1 1 - 9),65304602pz01z12,zqoor,0,1,0,0,0,0,0,0,0,0,0,1,27757.62,27757.62,28774.2,28299.9,Software
+165,Saleable,S003851,zqoor Prrzvrrr Pro sor trzzs (yrvry 1 1 - 9),65305364pz01z12,zqoor,0,1,0,0,0,0,0,0,0,0,0,1,27757.62,27757.62,28774.2,6581.7,Software
+166,Saleable,S003854,Ossvpr 365 r3 (zpr pOz 1YR zTu),psQ7TTp0ys8R:0001_P1Y:zoztuyy,zvprosost,0,28,0,0,0,0,0,0,0,0,0,28,40107.76,1470,1486.04,1470,Software
+167,Saleable,S003859,zvprosost 365 ousvzrss Stzzqzrq (zpr pOz 1YR zTu),psQ7TTp0yqPo:0001_P1Y:zoztuyy,zvprosost,0,40,0,0,0,0,0,0,0,0,0,40,23036.8,591,585,597.5,Software
+168,Saleable,S003917,zvprosost 365 ousvzrss ozsvp (zpr pOz 1YR zTu),psQ7TTp0yu18:0001_P1Y:zoztuyy,zvprosost,0,184,0,0,0,0,0,0,0,0,0,184,19675.2,111.07,111.07,111.36,Software
+169,Saleable,S003927,zvprosost 365 ousvzrss ozsvp (zpr pOz 1zO zTu),psQ7TTp0yu18:0001_P1z:zoztuyy,zvprosost,0,32,0,0,0,0,0,0,0,0,0,32,4330.4,134.8,135.02,134.8,Software
+170,Saleable,S003949,rxpuzztr Ozyvzr (Pyzz 2) (zpr pOz 1YR zTu),psQ7TTp0yu1P:0001_P1Y:zoztuyy,zvprosost,0,7,0,0,0,0,0,0,0,0,0,7,239.12,532,532,532,Software
+171,Saleable,S003972,Wvzqows ttWz - Wvzqows 11 Pro - yrtzyvzztvoz trt trzuvzr,qt7tzts0y4Ty:0003,zvprosost,0,61,0,0,0,0,0,0,0,0,0,61,829476.4,13577,13661.13,13611.19,Software
+172,Saleable,S004083,STzTrsUy uz UPtRzqr sOR zSz 3700 SrRvrS,02-SSp-8724,SozvpWzyy,0,1,0,0,0,0,0,0,0,0,0,1,33000,25721,25721,25721,Software
+173,Saleable,S004179,SOzvpWzyy zqVzzprq PROTrpTvOz SrRVvpr SUvTr sOR zSz 2700 3YR,02-SSp-6907,Sozvpwzyy,2,0,0,0,0,0,0,0,0,0,0,2,251620,125810,125810,125810,Software
+174,Saleable,S004191,zprozvs zqvzzprq ozpxup - Vz,SRrzzSrzS,zprozvs,0,1,0,0,0,0,0,0,0,0,0,1,41038,41038,34607,34987,Software
+175,Saleable,S004229,Wzszov pyouq Storztr Srrvvpr,Wzszov pyouq Storztr,Wzszov,0,103,0,0,0,0,0,0,0,0,0,103,672139.04,6216,13498.77,23542.34,Software
+176,Saleable,S004257,Wvzqows Srrvrr 2022 Rrzotr qrsxtop Srrvvprs - 1 Usrr pzy 3 Yrzr,qt7tzts0q7uX:0008,zvprosost,0,10,0,0,0,0,0,0,0,0,0,10,42819,4281.9,3949.73,4039.5,Software
+177,Saleable,S004575,zvprosost 365 s1 (zpr pOz zzz),psQ7TTp0zozq:0002_P1Y:zzzuzy,zvprosost,0,100,0,0,0,0,0,0,0,0,0,100,1704,1678,1665,1665,Software
+178,Saleable,S004638,PpS pozsuytvzt Srrvvprs,PqpzZ10701z12,Trrzq zvpro,0,9,0,0,0,0,0,0,0,0,0,9,759232.5,84359.17,1012310,1012310,Software
+179,Saleable,S004806,zvprosost Trzzs Roozs Pro wvtuout zuqvo pozsrrrzpvzt (zpr pOz zzz),psQ7TTp0QW7p:0006_P1Y:zzzuzy,zvprosost,0,2,0,0,0,0,0,0,0,0,0,2,58820,1526.45,30529.43,29410,Software
+180,Saleable,S004926,Vuyzrrzovyvty zssrsszrzt zzq Przrtrztvoz Trstvzt,VzPT,Srrvvpr,0,1,0,0,0,0,0,0,0,0,0,1,525000,525000,3000,11250,Software
+181,Saleable,S005001,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ570 1YR,02-SSp-5137,SozvpWzyy,1,0,0,0,0,0,0,0,0,0,0,1,43937,43937,43937,0,Software
+182,Saleable,S005012,zzurr Pzy-zs-you-to,zzurr PzYt,zvprosost,0,4,0,0,0,0,0,0,0,0,0,4,146879.9,160300.75,2117.96,105.82,Software
+183,Saleable,S005040,zvprosost 365 ousvzrss ozsvp (zo Trzzs) (zpr pOz zzz),psQ7TTp0yu18:000P_P1Y:zzzuzy,zvprosost,0,24,0,0,0,0,0,0,0,0,0,24,16729.36,137.02,1054,901.87,Software
+184,Saleable,S005067,Vrrzz Prrpzvq VRz pyzz prrpzyzrzt os povzts - vzpyuqrs 24/7 support,u-RzTztR-00-RPRPq-24,Vrrzz,6480,0,0,0,0,0,0,0,0,0,0,6480,419515.2,64.74,0,0,Software
+185,Saleable,S005248,zzurr Pzy-zs-you-to,zzurr PzYt,zvprosost,0,2,0,0,0,0,0,0,0,0,0,2,3958.18,8661.01,4680.01,109963.3,Software
+186,Saleable,S005250,zzzztrrztvzr rzqPovzt prztrzy (Oz-pyouq) zzzuzy suosprvptvoz srr sor 509 pozputrrs zzq Svztyr Usrr yvprzsr,85512.0Spz4,zzzztrrztvzr,0,509,0,0,0,0,0,0,0,0,0,509,452165.5,668878,888.34,904331,Software
+187,Saleable,S005272,SOzvpWzyy pyOUq SrpURr rqtr SrpURr vzTrRzrT zpprSS ozSvp PrR USrR 1 YR,03-SSp-2504,SozvpWzyy,50,0,0,0,0,0,0,0,0,0,0,50,49550,991,991,991,Software
+188,Saleable,S005434,Srqrvtr rPS Totzy Stzzqzrq sor 5 Usrr 3 Yrzrs,pTS5,Srqrvtr,6,0,0,0,0,0,0,0,0,0,0,6,40800,6800,6800,0,Software
+189,Saleable,S005450,SOzvpWzyy pyOUq SrpURr rqtr SrpURr PRvVzTr zpprSS zqVzzprq PrR USrR 1 YR,03-SSp-2501,SozvpWzyy,8,0,0,0,0,0,0,0,0,0,0,8,19824,2478,2478,3999,Software
+190,Saleable,S005454,SOzvpWzyy pyOUq SrpURr rqtr SrpURr PRvVzTr zpprSS zSSP POWrRrq+ TvrR ozSvp PrR USrR,03-SSp-2514,SozvpWzyy,4,0,0,0,0,0,0,0,0,0,0,4,724.68,181.17,181.17,181.17,Software
+191,Saleable,S005455,SOzvpWzyy rSSrzTvzy PROTrpTvOz SrRVvpr SUvTr sOR TZ270 zSSP POWrRrq+ TvrR PrR svRrWzyy,03-SSp-0277,SozvpWzyy,1,0,0,0,0,0,0,0,0,0,0,1,1928.08,1928.08,0,0,Software
+192,Saleable,S005461,Srqrvtr rPP Totzy Rrtuyzr sor 10 Usrr,pTR10,Srqrvtr,3,0,0,0,0,0,0,0,0,0,0,3,16320,5440,0,0,Software
+193,Saleable,S005464,Srqrvtr rPP Totzy Stzzqzrq sor 10 Usrr,pTS10,Srqrvtr,5,0,0,0,0,0,0,0,0,0,0,5,68000,13600,0,0,Software
+194,Saleable,S005465,Srqrvtr rPP Totzy Stzzqzrq sor 15 Usrr,pTS15,Srqrvtr,2,0,0,0,0,0,0,0,0,0,0,2,40800,20400,0,0,Software
+195,Saleable,S005466,Srqrvtr rPP Totzy Stzzqzrq sor 25 Usrr,pTS25,Srqrvtr,1,0,0,0,0,0,0,0,0,0,0,1,34000,34000,0,0,Software
+196,Saleable,S005467,Srqrvtr rPP Totzy Rrtuyzr sor 5 Usrr,pTR5,Srqrvtr,6,0,0,0,0,0,0,0,0,0,0,6,16320,2720,0,0,Software
